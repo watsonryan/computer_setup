@@ -1,0 +1,12 @@
+amp install Hydrogen
+amp install atom-beautify
+amp install autocomplete-bibtex
+amp install autocomplete-plus
+amp install language-latex
+amp install linter-chktex
+amp install minimap
+amp install pdf-view
+amp install platformio-ide-terminal
+amp install sublime-block-comment
+amp install todo-show
+amp install vim-mode-plus
